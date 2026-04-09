@@ -5,7 +5,11 @@
 
 **MSSV:** 1871020680
 
+<<<<<<< HEAD
 **Lớp/Nhóm:** CNTT 18-01 / Nhóm
+=======
+**Lớp/Nhóm:** Lớp CNTT 18-01 / Nhóm
+>>>>>>> da02069 (Complete Lab 1 answers)
 
 ---
 

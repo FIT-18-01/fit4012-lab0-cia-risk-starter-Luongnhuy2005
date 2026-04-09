@@ -40,4 +40,8 @@
     + Kiểm tra dữ liệu đầu vào và sử dụng cơ chế kiểm tra toàn vẹn (hash, checksum)
 ### 4. Kết luận ngắn
 (4-6 dòng: em học được gì từ bài lab này, phần nào khó nhất, điều gì cần chú ý khi phân tích một sự cố an toàn thông tin.)
+<<<<<<< HEAD
 - Qua bài lab này, em hiểu rõ hơn về ba yếu tố quan trọng trong an toàn thông tin là Confidentiality, Integrity và Availability. Em cũng học được cách xác định tài sản cần bảo vệ và phân tích một sự cố dựa trên threat, vulnerability và mitigation. Phần khó nhất là phân biệt rõ giữa các yếu tố trong CIA vì đôi khi chúng liên quan đến nhau. Khi phân tích sự cố, cần xác định đúng mục tiêu bị ảnh hưởng và nguyên nhân gốc rễ. Điều quan trọng là phải đề xuất biện pháp phòng chống phù hợp và thực tế.
+=======
+- Qua bài lab này, em hiểu rõ hơn về ba yếu tố quan trọng trong an toàn thông tin là Confidentiality, Integrity và Availability. Em cũng học được cách xác định tài sản cần bảo vệ và phân tích một sự cố dựa trên threat, vulnerability và mitigation. Phần khó nhất là phân biệt rõ giữa các yếu tố trong CIA vì đôi khi chúng liên quan đến nhau. Khi phân tích sự cố, cần xác định đúng mục tiêu bị ảnh hưởng và nguyên nhân gốc rễ. Điều quan trọng là phải đề xuất biện pháp phòng chống phù hợp và thực tế.
+>>>>>>> da02069 (Complete Lab 1 answers)

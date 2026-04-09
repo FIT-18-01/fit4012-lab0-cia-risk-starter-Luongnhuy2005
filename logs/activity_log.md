@@ -14,6 +14,6 @@
 - [ ] 11:30 - Push repo và kiểm tra link nộp
 
 ## Ghi chú thêm
-- Khó khăn gặp phải:
-- Cách em xử lý:
-- Điều em học được từ bài lab:
+- Khó khăn gặp phải: bản visua studio code bị lỗi terminal không chạy được 
+- Cách em xử lý: hỏi chat fig lỗi mãi không được thành ra gọi người thân giúp 
+- Điều em học được từ bài lab: có thêm logic để làm bài hơn 
